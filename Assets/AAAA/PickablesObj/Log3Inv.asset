@@ -22,7 +22,7 @@ MonoBehaviour:
   CanMoveObject: 1
   CanSwapObject: 1
   Quantity: 1
-  ItemName: Radio Log 3
+  ItemName: Emergency Log 1
   ShortDescription: A Radio Log from the first expedition
   Description: The last words of the only survivor
   Icon: {fileID: 21300000, guid: 54e7c53f9f4da384583d703d2bd46276, type: 3}
@@ -72,7 +72,7 @@ MonoBehaviour:
   ItemClass: 0
   TargetEquipmentInventoryName: 
   EquippedSound: {fileID: 0}
-  UsedSound: {fileID: 0}
+  UsedSound: {fileID: 8300000, guid: 70b953bc56ab09741a322fccee1771e6, type: 3}
   MovedSound: {fileID: 0}
   DroppedSound: {fileID: 0}
   UseDefaultSoundsIfNull: 1

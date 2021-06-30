@@ -72,7 +72,7 @@ MonoBehaviour:
   ItemClass: 0
   TargetEquipmentInventoryName: 
   EquippedSound: {fileID: 0}
-  UsedSound: {fileID: 0}
+  UsedSound: {fileID: 8300000, guid: 0da306cc401b4554bb309b1c6bbf6472, type: 3}
   MovedSound: {fileID: 0}
   DroppedSound: {fileID: 0}
   UseDefaultSoundsIfNull: 1

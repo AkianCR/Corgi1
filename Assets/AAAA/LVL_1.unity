@@ -9786,7 +9786,7 @@ MonoBehaviour:
   OnStay:
     m_PersistentCalls:
       m_Calls: []
-  LevelName: LVL_1
+  LevelName: LVL_2
   DelayBeforeTransition: 0
   TriggerFade: 0
   FaderID: 0

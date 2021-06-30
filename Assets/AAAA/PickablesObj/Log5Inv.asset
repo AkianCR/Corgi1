@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 56bfaa6641535b642bc1b478c9d3c065, type: 3}
   m_Name: Log5Inv
   m_EditorClassIdentifier: 
-  ItemID: Log2
+  ItemID: Log5
   TargetInventoryName: JungleInventory
   Usable: 1
   Consumable: 1
@@ -22,11 +22,11 @@ MonoBehaviour:
   CanMoveObject: 1
   CanSwapObject: 1
   Quantity: 1
-  ItemName: Radio Log 2
-  ShortDescription: A Radio Log from the first expedition
-  Description: Dr. Clef's findings about the exactitude of time
+  ItemName: Survivor Log 1
+  ShortDescription: A Radio Log from the last survivor
+  Description: Someone escaped somehow, only for you to find his corpse
   Icon: {fileID: 21300000, guid: 54e7c53f9f4da384583d703d2bd46276, type: 3}
-  Prefab: {fileID: 0}
+  Prefab: {fileID: 1617570811933092, guid: 4bd6b6837ae7bf048bb74cae1efb9347, type: 3}
   DropProperties:
     Shape: 0
     NormalToSpawnPlane: {x: 0, y: 1, z: 0}
