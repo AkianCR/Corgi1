@@ -200,7 +200,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 4f3970824a1580043bf0a5e92c1c200a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -387,8 +387,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CurrentHealth: 0
   TemporaryInvulnerable: 0
-  InitialHealth: 10
-  MaximumHealth: 10
+  InitialHealth: 30
+  MaximumHealth: 30
   Invulnerable: 0
   DamageFeedbacks: {fileID: 7808232133372665283}
   FlickerSpriteOnHit: 1
@@ -419,7 +419,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   WalkBehaviour: 0
   ChangeDirectionOnWall: 1
-  AvoidFalling: 1
+  AvoidFalling: 0
   HoleDetectionOffset: {x: 0, y: 0, z: 0}
   HoleDetectionRaycastLength: 1
   ViewDistance: 10
@@ -447,7 +447,7 @@ MonoBehaviour:
   TargetLayerMask:
     serializedVersion: 2
     m_Bits: 512
-  DamageCaused: 10
+  DamageCaused: 1
   DamageCausedKnockbackType: 1
   DamageCausedKnockbackDirection: 0
   DamageCausedKnockbackForce: {x: 25, y: 2}
