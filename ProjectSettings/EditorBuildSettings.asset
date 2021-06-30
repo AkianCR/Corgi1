@@ -53,81 +53,81 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/CorgiEngine/Demos/Corgi3D/Corgi3D.unity
     guid: 21235c11eb96a4cce9524e313642ab64
-  - enabled: 1
-    path: Assets/Minimal/MinimalLevel.unity
-    guid: b5dafbb7f5956d94ba41cd169cc39435
-  - enabled: 1
-    path: Assets/Minimal/MinimalFlight.unity
-    guid: 5714929c69111d6479988071c2f49c7c
-  - enabled: 1
-    path: Assets/Minimal/FeaturesGravity.unity
-    guid: 6bc87e572545fc543b9e3a9a445f0e44
-  - enabled: 1
-    path: Assets/Minimal/FeaturesPlatforms.unity
-    guid: 7c52201ab32b101488d1487d7683ccdb
-  - enabled: 1
-    path: Assets/Minimal/FeaturesInventory.unity
-    guid: 01cc8dfd93b2bf64c8ffaea6085007d9
-  - enabled: 1
-    path: Assets/Minimal/FeaturesWeapons.unity
-    guid: ebcd6de0032f6a946a11ce7c5c7e5b02
-  - enabled: 1
-    path: Assets/Minimal/MinimalSpawners.unity
-    guid: 4c2aaf8a2f44b4dd8bcabba19d475c87
-  - enabled: 1
-    path: Assets/Minimal/FeaturesKeys.unity
-    guid: 654cb02afee826c4e8c21a77155e84e3
-  - enabled: 1
-    path: Assets/Minimal/MinimalOneWayLevelHorizontal.unity
-    guid: 5e74e8fd6deb84749a4fc4e4b8d7ea09
-  - enabled: 1
-    path: Assets/Minimal/MinimalOneWayLevelVertical.unity
-    guid: c8d1ba4ad1f68a5449b10a0921eabb7a
-  - enabled: 1
-    path: Assets/Minimal/MinimalOneWayLevelAutoScrolling.unity
-    guid: cec1726c18982b84b8cf78b0b33025c7
-  - enabled: 1
-    path: Assets/Minimal/MinimalSlopes.unity
-    guid: 5a37564541f3b554d83f69844d59b915
-  - enabled: 1
-    path: Assets/Minimal/FeaturesPlatformsGravityFlipped.unity
-    guid: 0ed1a168af3dfbd4d84d743d54fb49e8
-  - enabled: 1
-    path: Assets/Minimal/Minimal4Players.unity
-    guid: 473ff282eb94d494290a75136e630771
-  - enabled: 1
-    path: Assets/Minimal/MinimalMovingPlatforms.unity
-    guid: e9f05a74451393a45820631bf8eb2ed1
-  - enabled: 1
-    path: Assets/Minimal/MinimalPixelPerfect.unity
-    guid: 222134e89397758428b4027f33abba30
-  - enabled: 1
-    path: Assets/Minimal/MinimalFallDamage.unity
-    guid: 5981ecd2cdc50c142817e7aa485be511
-  - enabled: 1
-    path: Assets/Minimal/MinimalPerf.unity
-    guid: 1e8feb8b31979f24693c2f9874367517
-  - enabled: 1
-    path: Assets/Minimal/MinimalRooms1.unity
-    guid: 8c65f7d9dde72e74d93288177dad2006
-  - enabled: 1
-    path: Assets/Minimal/MinimalRooms2.unity
-    guid: c982ea55a70c24044a9b4226f6446108
-  - enabled: 1
-    path: Assets/Minimal/MinimalCharacterSwap.unity
-    guid: 71edfb2fd45021646941033d28e781fb
-  - enabled: 1
-    path: Assets/Minimal/MinimalCharacterSwitch.unity
-    guid: e88faf07b1c65904c9a50ac65f300878
-  - enabled: 1
-    path: Assets/Minimal/MinimalModelSwitch.unity
-    guid: d7b557f6a71b64946a3fe442e825d5fb
-  - enabled: 1
-    path: Assets/Minimal/MinimalStairs.unity
-    guid: 9494d759434f80b4381b1da2a0fa14a0
-  - enabled: 1
-    path: Assets/Minimal/MinimalAutoMovement.unity
-    guid: 00bc6681f52186e429e065009169f47d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/CorgiEngine/ThirdParty/MoreMountains/InventoryEngine/Demos/PixelRogue/Minimal1.unity
     guid: b7b14cfcf997f4d40a54d4eee5f33401
@@ -143,9 +143,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/CorgiEngine/Demos/TheHunt/TheHunt.unity
     guid: a54626feab65cca4dbcea4dd435ad9be
-  - enabled: 1
-    path: Assets/AAAA/RetroClouds.unity
-    guid: 7f88f9618b30a48dd84ec6896516d345
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/CorgiEngine/Demos/Retro/RetroForest.unity
     guid: 651fe2312d8cc4f5587ce3e96e9609b0
@@ -212,4 +212,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/CorgiEngine/ThirdParty/MoreMountains/MMTools/Tools/MMSceneLoading/LoadingScreens/MMAdditiveLoadingScreenSimple.unity
     guid: 945e5b97212e8e74ebcd35bddde3970c
+  - enabled: 1
+    path: Assets/AAAA/LVL_4.unity
+    guid: 022002f5294c1c14aa54cd91c23cea60
   m_configObjects: {}
